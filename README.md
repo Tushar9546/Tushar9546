@@ -9,7 +9,7 @@
 
 - 🌍 I am from Muzaffarnagar,UttarPradesh.
 
-- 👨‍💻 Here is my PORTFOLIO : [https://tushar9546.github.io/](https://tushar9546.github.io/)
+- 👨‍💻 Here is my PORTFOLIO : <a href="https://tushar9546.github.io/"> PORTFOLIO <a/>
 
 - 💬 Ask me about **JavaScript, MERN stack.**
 
