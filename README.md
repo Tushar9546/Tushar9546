@@ -5,10 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar9546&label=Profile%20views&color=0e75b6&style=flat" alt="tushar9546" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👋 Hello, Welcome to my profile.
+
+- 🌍 I am from Muzaffarnagar,UttarPradesh.
 
 - 👨‍💻 Here is my PORTFOLIO : [https://tushar9546.github.io/](https://tushar9546.github.io/)
 
 - 💬 Ask me about **JavaScript, MERN stack.**
+
+- 😎 I love to watch movies and listen to music.
 
 - 📫 You can reach me at **tyagit911@gmail.com**
 
