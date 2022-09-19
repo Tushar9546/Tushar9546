@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
-<img align="right" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media"/>
+<img align="right" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="codding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar9546&label=Profile%20views&color=0e75b6&style=flat" alt="tushar9546" /> </p>
 
